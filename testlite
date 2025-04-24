@@ -1,0 +1,12 @@
+{
+    "api": {
+        "host": [
+            "https://test.nifymon.com"
+        ],
+        "git": [
+            "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
+        ],
+        "connreport": "https://ai.sweethoneydriz.com/info.php",
+        "greport": "https://re.sweethoneydriz.com"
+    }
+}
